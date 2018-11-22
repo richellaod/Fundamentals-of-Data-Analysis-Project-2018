@@ -1,3 +1,6 @@
+![Image for GMIT Crest](https://github.com/richellaod/Images-for-Project-2018/blob/master/gmit.jpg)
+
+
 ## Fundamentals of Data Analysis Project 2018
 
 The following assignment concerns the boxplot function. There are four distinct tasks which are carried out below:
